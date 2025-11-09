@@ -5,8 +5,7 @@ I created this script because I wanted to. 😑
 # Support Games
 
 • Blox Fruits
-|- Main Bf
-|- Fruit Collector
+Main Bf & Fruit Collector
 
 # Discord 🌟
 
